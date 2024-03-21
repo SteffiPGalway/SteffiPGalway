@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SteffiPGalway
-- 👀 I’m interested in Machine Learning and Python.
-- 🌱 I’m currently learning Django.
+- 👀 I work as a Software Engineer and as a Research Scientist in Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me: steffipoliwoda@gmail.com
 
