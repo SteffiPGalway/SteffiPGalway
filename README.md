@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteffiPGalway
 - 👀 I work as a Software Engineer
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me: steffipoliwoda@gmail.com
 
 <!---
